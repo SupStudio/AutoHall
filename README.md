@@ -1,2 +1,2 @@
 # AutoHall
-Example of web-site
+Simple site for auto-repair company. We used free psd template
